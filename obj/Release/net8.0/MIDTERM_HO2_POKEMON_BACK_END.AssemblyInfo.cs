@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIDTERM_HO2_POKEMON_BACK_END")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d074ef7bd3833747278dbe0bbc0d93cb3ebd79e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e853c5af6149e3cb844c0c4f1ab216f6d5eb9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIDTERM_HO2_POKEMON_BACK_END")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIDTERM_HO2_POKEMON_BACK_END")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
